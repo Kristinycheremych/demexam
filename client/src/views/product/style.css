@@ -1,0 +1,19 @@
+.button_order {
+  margin-right: 10px;
+}
+.product_actions {
+  margin-left: auto;
+}
+
+.product_actions button {
+  padding: 5px 10px;
+  background-color: rgb(204, 102, 0);
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.product_actions button:hover {
+  background-color: rgb(204, 80, 2);
+}

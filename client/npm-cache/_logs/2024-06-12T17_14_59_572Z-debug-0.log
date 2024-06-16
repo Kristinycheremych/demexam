@@ -1,0 +1,19 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\kerem\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.8.1
+2 info using node@v20.14.0
+3 silly config load:file:C:\Users\kerem\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:c:\source\demexam\demexam\client\.npmrc
+5 silly config load:file:C:\Users\kerem\.npmrc
+6 silly config load:file:C:\Users\kerem\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm view react-router-dom description dist-tags.latest homepage version time
+8 verbose argv "view" "--json" "--" "react-router-dom" "description" "dist-tags.latest" "homepage" "version" "time"
+9 verbose logfile logs-max:10 dir:c:\source\demexam\demexam\client\npm-cache\_logs\2024-06-12T17_14_59_572Z-
+10 verbose logfile c:\source\demexam\demexam\client\npm-cache\_logs\2024-06-12T17_14_59_572Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/react-router-dom 335ms (cache revalidated)
+13 verbose cwd c:\source\demexam\demexam\client
+14 verbose os Windows_NT 10.0.22631
+15 verbose node v20.14.0
+16 verbose npm  v10.8.1
+17 verbose exit 0
+18 info ok

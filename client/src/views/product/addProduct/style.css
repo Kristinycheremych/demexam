@@ -1,0 +1,42 @@
+.wrapper {
+  width: 500px;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid black;
+  border-radius: 6px;
+  margin-top: 50px;
+}
+
+.title_main {
+  padding: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.input_div {
+  text-align: center;
+  padding: 10px;
+}
+
+.input_div input {
+  width: 450px;
+  height: 30px;
+  border-radius: 6px;
+}
+
+.div_btn {
+  display: flex;
+  justify-content: flex-end;
+  padding: 30px;
+}
+
+.div_btn button {
+  padding: 5px 10px;
+  background-color: rgb(204, 102, 0);
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+  width: 120px;
+  height: 33px;
+}

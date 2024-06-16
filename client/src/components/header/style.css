@@ -1,0 +1,23 @@
+.wrapper_header {
+  height: 60px;
+  background: rgb(234, 231, 231);
+}
+
+.wrapper_header ul {
+  padding: 20px;
+  padding-left: 100px;
+}
+
+.wrapper_header ul li {
+  display: inline-block;
+  margin-right: 20px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #333;
+  cursor: pointer;
+  list-style-type: none;
+}
+
+.wrapper_header ul li:hover {
+  color: rgb(204, 102, 0);
+}
